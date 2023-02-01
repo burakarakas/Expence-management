@@ -1,0 +1,17 @@
+{
+ 
+  "include": ["./*","./prisma/**/*"],
+  "compilerOptions": {
+    "target": "es6",
+    "sourceMap": true, 
+    "outDir": "./dist", 
+    "module": "commonjs",
+    "strict": true, 
+    "moduleResolution": "node", 
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true 
+}
+
+}
+
+
